@@ -14,8 +14,8 @@ The language this program was coded in is:
 ------------------------------------------------------------------------------
 
 The platform this program was developed on: <br />
-	Edition:	Windows 10 Home <br />
-	Version:	21H1 <br />
-	Installed on:	3/15/2021 <br />
-	OS build:	19043.1165 <br />
-	Experience:	Windows Feature Experience Pack 120.2212.3530.0
+&emsp;Edition:	Windows 10 Home <br />
+&emsp;Version:	21H1 <br />
+&emsp;Installed on:	3/15/2021 <br />
+&emsp;OS build:	19043.1165 <br />
+&emsp;Experience:	Windows Feature Experience Pack 120.2212.3530.0
