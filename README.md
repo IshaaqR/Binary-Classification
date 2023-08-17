@@ -3,8 +3,8 @@ This repository contains files for the "Binary Classification with Machine
 Learning" project. In this project, I was given a training set of 9,000
 samples and 205 features, and had to build a model to classify the dataset as
 best as possible. The steps for this task consisted of data preparation
-(imputing missing values, feature selection) and building the model (training
-a classifier, testing accuracy).
+(imputing missing values, feature selection) and building the model using
+scikit-learn (training a classifier, testing accuracy).
 
 ------------------------------------------------------------------------------
 
